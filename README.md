@@ -1,23 +1,10 @@
-## Olá, meu nome é Jean Carlo e sou aspirante à programador!
+## Olá, meu nome é Jean Carlo! :wave:
 
-**🔭:** Atualmente estou no 9° ano do Ensino Fundamental II.
+Tenho 14 anos e estou aprendendo Python e Lógica da Programação, o meu objetivo é conseguir criar softwares, jogos e tecnologias que ajudem a criar um mundo melhor, em geral.
 
-**🌱:** Atualmente estou aprendendo a programar em Python.
+Desde os meus 8 anos, tenho o sonho de ser um grande programador capaz de resolver praticamente qualquer problema e, com melhoes condições financeiras e de vida, estou no processo para conseguir realizá-lo.
 
-**🤔:** Preciso de ajuda para achar bons livros para iniciantes em C++.
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+</div>
 
-**⚡:** Curiosidade: Meu segundo nome é inspirado na cidade de Monte Carlo.
-
-#### **Linguagens**
-
-[![My Skills](https://skills.thijs.gg/icons?i=py&theme=dark)](https://skills.thijs.gg)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanC4rlo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-#### **Ferramentas e Sistemas Operacionais**
-
-[![My Skills](https://skills.thijs.gg/icons?i=vscode&theme=dark)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=linux&theme=dark)](https://skills.thijs.gg)
-
-#### **Minhas estatísticas:**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanC4rlo&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
