@@ -17,7 +17,7 @@ Desde os meus 8 anos, tenho o sonho de ser um grande programador capaz de resolv
 ### :desktop_computer: **Programas e Sistemas Operacionais que eu uso:**
 
 <div> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
 
