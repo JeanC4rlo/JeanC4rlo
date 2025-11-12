@@ -54,9 +54,9 @@
 
 ## 📌 Projetos em destaque
 
-| Irvia OS | Kunwana |
+| Banana OS | Kunwana |
 |:-------------------:|:--------------------:|
-| [![Irvia OS](https://github-readme-stats.vercel.app/api/pin/?username=JeanC4rlo&repo=project-irvia&theme=dark&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&border_color=45475a&icon_color=cba6f7)](https://github.com/JeanC4rlo/project-irvia) | [![Kunwana](https://github-readme-stats.vercel.app/api/pin/?username=JeanC4rlo&repo=kunwana&theme=dark&bg_color=1e1e2e&title_color=a6e3a1&text_color=cdd6f4&border_color=45475a&icon_color=f9e2af)](https://github.com/JeanC4rlo/kunwana) |
+| [![Banana OS](https://github-readme-stats.vercel.app/api/pin/?username=JeanC4rlo&repo=project-banana&theme=dark&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&border_color=45475a&icon_color=cba6f7)](https://github.com/JeanC4rlo/project-irvia) | [![Kunwana](https://github-readme-stats.vercel.app/api/pin/?username=JeanC4rlo&repo=kunwana&theme=dark&bg_color=1e1e2e&title_color=a6e3a1&text_color=cdd6f4&border_color=45475a&icon_color=f9e2af)](https://github.com/JeanC4rlo/kunwana) |
 | **C++ • Assembly • Kernel** | **Web • História • Educação** |
 
 | Onepedia | OneAPI |
