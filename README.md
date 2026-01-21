@@ -14,7 +14,7 @@
 				</picture>
 			</p>
 			<p>
-				Meu nome é <b>Jean Carlo</b>, tenho <b>16 anos</b> e sou estudante do <b>CEFET-MG</b>.<br>
+				Meu nome é <b>Jean Carlo</b>, tenho <b>17 anos</b> e sou estudante do <b>CEFET-MG</b>.<br>
 				Atualmente estou aprendendo <b>C++</b>, meu segundo contato com programação — estou sempre em busca de evoluir como desenvolvedor! 🚀
 			</p>
 			<div class="languages">
