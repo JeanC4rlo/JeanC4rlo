@@ -21,18 +21,23 @@
 				<div class="language-item">
 					<span class="flag">🇧🇷</span>
 					<strong>Português Brasileiro</strong><br>
-					<em>Nativo • Comunicativo perfeito</em>
+					<em>Nativo • Falo, leio, ouço e escrevo fluentemente</em>
 				</div><br>
 				<div class="language-item">
 					<span class="flag">🇺🇸</span>
-					<strong>English</strong><br>
-					<em>Fluente • Leitura, escrita e conversação</em>
+					<strong>English (Inglês)</strong><br>
+					<em>B2 - C1 • I speak, read and listen to English fluently, my writing is a WIP</em>
 				</div><br>
 				<div class="language-item">
 					<span class="flag">🇯🇵</span>
-					<strong>日本語</strong><br>
-					<em>Iniciante • Estudando com dedicação</em>
+					<strong>日本語 (Japonês)</strong><br>
+					<em>Iniciante • Atualmente pausei os estudos</em>
 				</div><br>
+        <div class="language-item">
+					<span class="flag">🇨🇳</span>
+					<strong>中国 (Chinês)</strong><br>
+					<em>Iniciante • Estudando a língua</em>
+				</div>
 			</div>
 		</td>
 		<!-- Coluna direita -->
