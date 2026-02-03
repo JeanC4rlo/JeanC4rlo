@@ -32,11 +32,6 @@
 					<span class="flag">🇯🇵</span>
 					<strong>日本語 (Japonês)</strong><br>
 					<em>Iniciante • Atualmente pausei os estudos</em>
-				</div><br>
-        <div class="language-item">
-					<span class="flag">🇨🇳</span>
-					<strong>中国 (Chinês)</strong><br>
-					<em>Iniciante • Estudando a língua</em>
 				</div>
 			</div>
 		</td>
