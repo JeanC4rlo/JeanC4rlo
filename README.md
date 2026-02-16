@@ -8,7 +8,7 @@
 				<picture>
 				<!-- Dark mode -->
 				<source media="(prefers-color-scheme: dark)" 
-						srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&background=000000&lines=>+Aprendendo+C%2B%2B+%26+Python;~+Construindo+meu+caminho+como+dev;-+Sonhando+com+o+Irvia+OS">
+						srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&background=000000&lines=>+Aprendendo+C%2B%2B+%26+Python;~+Construindo+meu+caminho+como+dev;-+Sonhando+com+o+Banana+OS">
 				<!-- Light mode -->
 				<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=700&background=FFFFFF&lines=>+Aprendendo+C%2B%2B+%26+Python;~+Construindo+meu+caminho+como+dev;-+Sonhando+com+o+Banana+OS" alt="Typing SVG" />
 				</picture>
