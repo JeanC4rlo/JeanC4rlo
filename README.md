@@ -31,7 +31,7 @@
 				<div class="language-item">
 					<span class="flag">🇯🇵</span>
 					<strong>日本語 (Japonês)</strong><br>
-					<em>Iniciante • Atualmente pausei os estudos</em>
+					<em>Iniciante • Atualmente estudando para o N5</em>
 				</div>
 			</div>
 		</td>
