@@ -46,9 +46,23 @@
 
 <div align="center">
 
-| Backend & Linguagens | Web & Frontend | Sistemas Operacionais |
-|:------------------:|:-------------:|:-------------------:|
-| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![SCSS](https://skillicons.dev/icons?i=scss) ![jQuery](https://skillicons.dev/icons?i=jquery) ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Windows](https://skillicons.dev/icons?i=windows) ![Linux](https://skillicons.dev/icons?i=linux) |
+### :green_square: Certa experiência
+![Java](https://skillicons.dev/icons?i=java)
+![TS](https://skillicons.dev/icons?i=ts)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=js)
+
+### :orange_square: Alguma experiência
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### :red_square: Pouca experiência
+![SCSS](https://skillicons.dev/icons?i=scss)
+![jQuery](https://skillicons.dev/icons?i=jquery)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 
 </div>
 
