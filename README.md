@@ -48,22 +48,22 @@
 
 [●●●●●] Conheço fluentemente
 
-<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=html,css">
+<img height=30 src="https://skillicons.dev/icons?i=html,css"><br>
 
 [●●●●○] Conheço bastante
 
-<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=java,js,ts">
+<img height=30 src="https://skillicons.dev/icons?i=java,js,ts"><br>
 
 [●●●○○] Conheço o suficiente
 
-<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=jquery,c,cpp,python">
+<img height=30 src="https://skillicons.dev/icons?i=jquery,c,cpp,python"><br>
 
 [●●○○○] Conheço algo
 
-<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=mysql">
+<img height=30 src="https://skillicons.dev/icons?i=mysql"><br>
 
 [●○○○○] Não conheço muito
 
-<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=postgresql">
+<img height=30 src="https://skillicons.dev/icons?i=postgresql">
 
 </div>
