@@ -44,24 +44,16 @@
 
 ## 🚀 Tech Stack
 
-<div align="center">
+<div align="left">
 
-### :green_square: Certa experiência
-![Java](https://skillicons.dev/icons?i=java)
-![TS](https://skillicons.dev/icons?i=ts)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=js)
+[●●●●●] <img height=20 src="https://skillicons.dev/icons?i=html,css">
 
-### :orange_square: Alguma experiência
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+[●●●●○] <img height=20 src="https://skillicons.dev/icons?i=java,js,ts">
 
-### :red_square: Pouca experiência
-![SCSS](https://skillicons.dev/icons?i=scss)
-![jQuery](https://skillicons.dev/icons?i=jquery)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+[●●●○○] <img height=20 src="https://skillicons.dev/icons?i=jquery,c,cpp,python">
+
+[●●○○○] <img height=20 src="https://skillicons.dev/icons?i=mysql,postgresql">
+
+[●○○○○]
 
 </div>
