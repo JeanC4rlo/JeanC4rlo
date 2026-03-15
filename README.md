@@ -60,10 +60,10 @@
 
 [●●○○○] Conheço algo
 
-<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=mysql,postgresql">
+<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=mysql">
 
 [●○○○○] Não conheço muito
 
-<img height=30 style="margin-bottom:15px;" src="">
+<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=postgresql">
 
 </div>
