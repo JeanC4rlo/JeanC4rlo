@@ -46,14 +46,24 @@
 
 <div align="left">
 
-[●●●●●] <img height=20 src="https://skillicons.dev/icons?i=html,css">
+[●●●●●] Conheço fluentemente
 
-[●●●●○] <img height=20 src="https://skillicons.dev/icons?i=java,js,ts">
+<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=html,css">
 
-[●●●○○] <img height=20 src="https://skillicons.dev/icons?i=jquery,c,cpp,python">
+[●●●●○] Conheço bastante
 
-[●●○○○] <img height=20 src="https://skillicons.dev/icons?i=mysql,postgresql">
+<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=java,js,ts">
 
-[●○○○○]
+[●●●○○] Conheço o suficiente
+
+<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=jquery,c,cpp,python">
+
+[●●○○○] Conheço algo
+
+<img height=30 style="margin-bottom:15px;" src="https://skillicons.dev/icons?i=mysql,postgresql">
+
+[●○○○○] Não conheço muito
+
+<img height=30 style="margin-bottom:15px;" src="">
 
 </div>
