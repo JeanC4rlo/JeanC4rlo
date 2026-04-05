@@ -44,26 +44,58 @@
 
 ## 🚀 Tech Stack
 
-<div align="left">
+```js
+// 🔥 [●●●●●] Respiro isso
 
-[●●●●●] Conheço fluentemente
+{
+	"html": "5",
+	"css": "3"
+}
+```
 
-<img height=30 src="https://skillicons.dev/icons?i=html,css"><br>
+<br>
 
-[●●●●○] Conheço bastante
+```js
+// 🧠 [●●●●○] Já até sonhei com isso
 
-<img height=30 src="https://skillicons.dev/icons?i=java,js,ts"><br>
+{
+	"java": ["17", "21"],
+	"javascript": "",
+	"typescript": ""
+}
+```
 
-[●●●○○] Conheço o suficiente
+<br>
 
-<img height=30 src="https://skillicons.dev/icons?i=jquery,c,cpp,python"><br>
+```js
+// ⚙️ [●●●○○] Me viro bem
 
-[●●○○○] Conheço algo
+{
+	"jquery": "3.71",
+	"c": ["17", "21"],
+	"cpp": ["17", "21"],
+	"python": "3.12"
+}
+```
 
-<img height=30 src="https://skillicons.dev/icons?i=mysql"><br>
+<br>
 
-[●○○○○] Não conheço muito
+```js
+// 👀 [●●○○○] Estou buscando melhorar
 
-<img height=30 src="https://skillicons.dev/icons?i=postgresql">
+{
+	"mysql/mariadb": "",
+	"assembly": "x86_64"
+}
+```
 
-</div>
+<br>
+
+```js
+// 🌱 [●○○○○] Estou explorando
+
+{
+	"postgresql": ["16", "17"],
+	"assembly": "x64"
+}
+```
