@@ -21,23 +21,27 @@
 				<div class="language-item">
 					<span class="flag">🇧🇷</span>
 					<strong>Português Brasileiro</strong><br>
-					<em>Nativo • Falo, leio, ouço e escrevo fluentemente</em>
+					<em>Nativo • Como sou nascido no Brasil, minha escrita, fala e compreensão são fluentes</em>
 				</div><br>
 				<div class="language-item">
 					<span class="flag">🇺🇸</span>
 					<strong>English (Inglês)</strong><br>
-					<em>B2 - C1 • I speak, read and listen to English fluently, my writing is a WIP</em>
+					<em>C1 • I'm capable of speaking, reading and listening to English properly, however my writing is a WIP</em>
 				</div><br>
 				<div class="language-item">
 					<span class="flag">🇯🇵</span>
 					<strong>日本語 (Japonês)</strong><br>
-					<em>Iniciante • Atualmente estudando para o N5</em>
-				</div>
+					<em>Iniciante • Atualmente em hiato devido ao Mandarim</em>
+				</div><br>
+				<div class="language-item">
+					<span class="flag">🇨🇳</span>
+					<strong>普通话 (Mandarim)</strong><br>
+					<em>Iniciante • Estudando com meus amigos</em>
 			</div>
 		</td>
 		<!-- Coluna direita -->
 		<td width="40%" valign="center" align="center">
-		<img src="assets/tails.gif" alt="GIF animado" style="height:100%;width:auto;"/>
+			<img src="assets/tails.gif" alt="GIF animado" style="height:100%;width:auto;"/>
 		</td>
 	</tr>
 </table>
