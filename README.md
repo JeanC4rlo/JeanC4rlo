@@ -15,7 +15,7 @@
 			</p>
 			<p>
 				Meu nome é <b>Jean Carlo</b>, tenho <b>17 anos</b> e sou estudante do <b>CEFET-MG</b>.<br>
-				Atualmente estou aprendendo <b>C++</b>, meu segundo contato com programação — estou sempre em busca de evoluir como desenvolvedor! 🚀
+				Atualmente estou aprendendo <b>Assembly</b> e <b>C</b> para desenvolver meu próprio Kernel! 🚀
 			</p>
 			<div class="languages">
 				<div class="language-item">
