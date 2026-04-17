@@ -89,7 +89,7 @@
 
 {
 	"mysql/mariadb": "",
-	"assembly": "x86_64"
+	"assembly": "x86"
 }
 ```
 
@@ -100,6 +100,6 @@
 
 {
 	"postgresql": ["16", "17"],
-	"assembly": "x64"
+	"assembly": "x86_64"
 }
 ```
