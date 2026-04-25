@@ -46,7 +46,7 @@
 	</tr>
 </table>
 
-## 🚀 Tech Stack
+## 🚀 Meu conhecimento
 
 ```js
 // 🔥 [●●●●●] Respiro isso
