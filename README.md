@@ -55,11 +55,7 @@
 	"html": "5",
 	"css": "3"
 }
-```
 
-<br>
-
-```js
 // 🧠 [●●●●○] Já até sonhei com isso
 
 {
@@ -67,11 +63,7 @@
 	"javascript": "",
 	"typescript": ""
 }
-```
 
-<br>
-
-```js
 // ⚙️ [●●●○○] Me viro bem
 
 {
@@ -80,22 +72,14 @@
 	"cpp": ["17", "21"],
 	"python": "3.12"
 }
-```
 
-<br>
-
-```js
 // 👀 [●●○○○] Estou buscando melhorar
 
 {
 	"mysql/mariadb": "",
 	"assembly": "x86"
 }
-```
 
-<br>
-
-```js
 // 🌱 [●○○○○] Estou explorando
 
 {
